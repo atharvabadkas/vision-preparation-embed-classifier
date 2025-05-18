@@ -1,0 +1,152 @@
+Sr. no.,Date,Testing Outcomes (Summary),Accuracy ,No. of SKUs,Amount of Data,Batch Size
+0,WMS_D8-3B-DA-89-4D-90,,,,,
+1,20-02-2025,"This test is on 37 Images that were present on 20th Feb 2024
+1. Dosa Bhaji was mistaken as Bharit 
+2. South Indian Chutney was mistaken as Ginger Garlic Paste
+3. Chutney Iddiappam was mistaken as Paneer Butter Masala
+4. South Indian Chutney was mistaken as Dal Khichadi Dal
+5. Apples were mistaken as oranges
+6. Bananas were mistaken as pears
+7. Makti was mistaken
+8. South Indian Chutney was mistaken as Besan
+Rest were correct - 29/37",78.37,79,10 Images and 5 Augmentations Per SKUs,10
+2,21-02-2025,"This test is on 27 Images that were present on  21st Feb 2024
+1. Chopped Onions were mistaken as Bharit
+2. South Indian Chutney was mistaken as Ginger Garlic Paste
+3. Spinach Corn Stuffing was mistaken as Fried Kanda
+4. South Indian Chutney was mistaken as Ginger Garlic Paste  
+Rest were correct - 23/27",85.18,79,10 Images and 5 Augmentations Per SKUs,10
+3,22-02-2025,"This test is on 34 Images that were present on 22nd Feb 2024
+1. South Indian Chutney was mistaken as Plain Dahi 
+2. South Indian Chutney was mistaken as Besan
+3. Dosa Bhaji was mistaken as Bata Wada Saran
+4. Bhajni Thalipeeth was mistaken as Shira
+Rest were correct - 30/34",88.23,79,10 Images and 5 Augmentations Per SKUs,10
+4,23-02-2025,"This test is on 40 Images that were present on 23rd Feb 2024
+1. South Indian Chutney was mistaken as Plain Dahi 
+2. South Indian Chutney was mistaken as Ginger Garlic Paste
+3. Dosa Bhaji was mistaken as Bharit 
+4.South Indian Chutney was mistaken as Besan
+Rest were correct - 36/40",90,79,10 Images and 5 Augmentations Per SKUs,10
+5,24-02-2025,"This test is on 25 Images that were present on 24th Feb 2024
+1. South Indian Chutney was mistaken as Plain Dahi 
+2. Dosa Bhaji was mistaken as Bharit 
+3. Bhajni Thalipeeth was mistaken as Besan
+Rest were correct - 22/25",88,79,10 Images and 5 Augmentations Per SKUs,10
+6,25-02-2025,"This test is on 30 Images that were present on 25th Feb 2024
+1. South Indian Chutney was mistaken as Ginger Garlic Paste 
+2. Dosa Bhaji was mistaken as Bharit 
+3. Bhajni Thalipeeth was mistaken as Sabudana Wada Saran
+4. South Indian Chutney was mistaken as Dosa Pith
+Rest were correct - 26/30",86.66,79,10 Images and 5 Augmentations Per SKUs,10
+7,26-02-2025,"This test is on 32 Images that were present on 26th Feb 2024
+1. Ring Onions were mistaken as potato
+2. South Indian Chutney was mistaken as Ginger Garlic Paste 
+3. Spinach Corn Stuffing was mistaken as Kothimbir
+4. Dosa Bhaji was mistaken as Bharit 
+5. Bhajni Thalipeeth was mistaken as Sabudana Wada Saran
+Rest were correct - 27/32",84.37,79,10 Images and 5 Augmentations Per SKUs,10
+,,"
+Total Images Evaluated: 225
+Total Correct Predictions: 193
+",85.83,,,
+,,,,,,
+,,,,,,
+0,WMS_F0-9E-9E-20-C6-B0,,,,,
+1,01-02-2025,"This test is on 68 Images that were present on 1st Feb 2024
+1. Bharit was mistaken as Kothimbir
+2. Ginger Garlic Paste was mistaken as Plain Dahi
+3. Veg Shahi Kurma mistake
+4. Chopped Carrot was mistaken as paneer peri peri
+5. Pastries were mistaken as paneer junglee stuffing
+6. Chopped Kanda was mistaken as Fried Kanda
+7. Sandwich Chutney was mistaken as Plain Dahi
+8. Aloo Tikki was mistaken as Potato
+9. Pithla was mistaken as Sambar
+10. Bell peppers were mistaken as Choppeed Tomato
+Rest were correct - 58/68",85.29,79,10 Images and 5 Augmentations Per SKUs,10
+2,02-02-2025,"This test is on 79 Images that were present on 2nd Feb 2024
+1. Spinach Corn Stuffing mistake 
+2. Chopped Tomato was mistaken as paneer peri peri 
+3. Chopped Kanda was mistaken as Fried Kanda
+4. Spinach corn stuffing mistake
+5. Spinach corn stuffing was mistaken as Fried Kanda
+6. Sandwitch Chutney was mistaken as paneer junglee stuffing
+7. Chopped Kanda was mistaken as Fried Kanda
+8. Veg Shahi Kurma wrong
+9. Chopped Onions were mistaken as Potato
+10. Bombay Sandwitch Stuffing was mistaken as Spinach corn stuffing
+11. Chopped Kanda was mistaken as fried kanda
+12. Oranges were mistaken as pears
+13. Watermelon was mistaken as Fried Kanda
+14. Carrots
+15. Carrots
+Rest were correct - 64/79",81.01,79,10 Images and 5 Augmentations Per SKUs,10
+3,03-02-2025,"This test is on 00 Images that were present on 3rd Feb 2024
+1. Failure on kanda kothimbir
+2. South indian chutney was mistaken as Paneer Junglee Stuffing
+3. Bharit was mistaken as Bombay sandwich stuffing
+4. Bharit wrong
+5. Dosa Bhaji was mistaken as Bharit 
+6. Chopped tomato wrong 
+7. Sandwich chutney was mistaken as Mirchi Thecha
+8. Chopped Tomato wrong
+9. Cirlcle kanda as Dahi wada wada
+Rest were correct - 42/53",79.24,79,10 Images and 5 Augmentations Per SKUs,10
+4,04-02-2025,"This test is on 00 Images that were present on  4th Feb 2024
+1. Paneer Junglee Stuffing wrong
+2. Chopped Paneer was mistaken as paneer junglee stuffing
+3. Batata Bhaji Batata was mistaken as chopped tomato
+4. Sandwich Chutney was mistaken as Plain Dahi
+5. Sandwich Chutney was mistaken as Plain Dahi
+6. Chopped tomato was mistaken as Panner peri peri 
+7. Bharit wrong
+8. Fried kanda wrong
+9. Kothimbir Wrong
+10. Mirchi Thecha was mistaken as fried kanda
+11. Chopped Kanda was mistaken as fried kanda
+12. Chopped tomatos were mistaken as bell peppers
+13. Cirlcle kanda as Dahi wada wada
+14. Aloo tikki was mistaken as Potato 
+
+Rest were correct - 46/60",76.66,79,10 Images and 5 Augmentations Per SKUs,10
+5,05-02-2025,"This test is on 49 Images that were present on 5th Feb 2024
+1. Capsicum Wrong
+2. fried kanda wrong 
+3. South Indian Chutney was mistaken as Spinach Corn Stuffing
+4. Chutney Sandwaich was mistaken as Sambar
+5. Chopped tomato was mistaken as paneer peri peri 
+6. Plain dahi was mistaken as paneer junglee stuffing
+7. Chopped Kanda was mistaken as fried kanda
+8. Aloo tikki was mistaken as pattice
+9. Chutney sandwich wrong
+10. Cirlcle kanda as Dahi wada wada
+Rest were correct - 39/49",79.59,79,10 Images and 5 Augmentations Per SKUs,10
+6,06-02-2025,"This test is on 50 Images that were present on 06th Feb 2024
+1. Chopped Kanda wrong
+2. Chopped tomato wrong
+3. Rice was mistaken as Iddiappams
+4. Oranges were mistaken as Apples
+5. Fried Kanda wrong
+6. Chutney sandwich was mistaken as Tandoor Dahi 
+7. Chopped tomato was mistaken as paneer peri peri 
+8. Chopped tomato was mistaken as bell peppers
+9. Aloo tikki was mistaken as pattice
+10. Cirlcle kanda as Dahi wada wada
+11. Chopped Kanda was mistaken as fried kanda
+Rest were correct - 39/50",78,79,10 Images and 5 Augmentations Per SKUs,10
+7,07-02-2025,"This test is on 57 Images that were present on 7th Feb 2024
+1. Ginger garlic paste was mistaken as plain dahi
+2. Kothimbir wrong
+3. Bharit was mistaken as Bombay sandwich stuffing
+4. South indian chutney wrong
+5. White Sauce was mistaken as South indian chutney
+6. Capsicum was mistaken as chopped tomato
+7. Chutney Sandwaich was mistaken as Sambar
+8. Chopped Kanda was mistaken as spinach corn stuffing
+9. Chopped tomato was mistaken as paneer peri peri
+10. Cirlcle kanda as Dahi wada wada
+Rest were correct - 47/57",82.45,79,10 Images and 5 Augmentations Per SKUs,10
+,,"
+Total Images Evaluated: 416
+Total Correct Predictions: 335",80.32,,,
